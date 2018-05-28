@@ -1,0 +1,6 @@
+nomeComp = str(input('Digite seu nome completo: '))
+print(nomeComp.lower())
+print(nomeComp.upper())
+print(len(nomeComp.replace(' ', '')))
+divi = nomeComp.split()
+print(len(divi[0]))
