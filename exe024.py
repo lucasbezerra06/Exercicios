@@ -1,6 +1,4 @@
-cidade = str(input('Digite o nome da cidade: '))
+cidade = str(input('Digite o nome da cidade: ')).strip()
+#print(cidade[:5].uper() == 'SANTO')
 div = cidade.split()
-if 'SANTOS' in div[0].upper():
-    print('A cidade {} começa com o nome SANTOS'.format(cidade))
-else:
-    print('A cidade {} não começa com o nome SANTOS'.format(cidade))
+print('SANTO' == div[0].upper())
