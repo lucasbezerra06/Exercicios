@@ -7,4 +7,4 @@ num = int(input('Digite um número entre 0 e 5: '))
 if num == n:
     print('Você venceu!'.format(n))
 else:
-    print('Você perdeu, eu pensei o número {}!'.format(n))
+    print('Você perdeu, eu pensei no número {}!'.format(n))
