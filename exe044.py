@@ -16,10 +16,14 @@ else:
     elif vezes <= 2:
         novo = precoNormal
         tipo = str('')
+        parcela = novo / 2
+        print('Sua compra será parcelada em 2x de R${:.2f}'.format(parcela))
 
     else:
         porção = 20
         novo = precoNormal + precoNormal * porção / 100
         tipo = str('com juros de {}%'.format(porção))
+        parcela = novo / vezes
+        print('Sua compra será parcelada em {}x de R${:.2f}'.format(vezes, parcela))
 
 print('O novo preço do produto é RS{:.2f} {}'.format(novo, tipo))
