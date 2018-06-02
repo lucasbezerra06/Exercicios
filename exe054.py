@@ -3,7 +3,7 @@ anoAtual = date.today().year
 maior = 0
 menor = 0
 for c in range(1, 8):
-    nasci = int(input('Digite sua data de nascimento: '))
+    nasci = int(input('Em que ano a {}º pessoa nasceu? '.format(c)))
     if anoAtual - nasci >= 21:
         maior += 1
     else:

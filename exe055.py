@@ -10,5 +10,5 @@ for i in range(0, 5):
     elif peso < menor:
         menor = peso
 print('-=' * 20)
-print('O maior peso foi de {}.'.format(maior))
-print('O menor peso foi de {}.'.format(menor))
+print('O maior peso foi de {}Kg.'.format(maior))
+print('O menor peso foi de {}Kg.'.format(menor))
