@@ -14,7 +14,7 @@ while res:
         maior = n
     elif n < menor:
         menor = n
-    op = input('Deseja continuar? [S/N]')
+    op = input('Deseja continuar? [S/N]').upper().strip()[0]
     if op in 'Nn':
         res = False
 media /= cont
