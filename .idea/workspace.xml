@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26e50def-07c5-4a61-b742-3614a552ab60" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/exe066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe071.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,11 +50,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exe070.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exe070.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exe070.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+            <state relative-caret-position="85">
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exe071.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exe071.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -78,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/exe022.py" />
         <option value="$PROJECT_DIR$/exe023.py" />
         <option value="$PROJECT_DIR$/exe024.py" />
         <option value="$PROJECT_DIR$/exe025.py" />
@@ -129,6 +133,7 @@
         <option value="$PROJECT_DIR$/exe068.py" />
         <option value="$PROJECT_DIR$/exe069.py" />
         <option value="$PROJECT_DIR$/exe070.py" />
+        <option value="$PROJECT_DIR$/exe071.py" />
       </list>
     </option>
   </component>
@@ -165,25 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exe070">
-    <configuration name="exe066" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Exercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe066.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.exe071">
     <configuration name="exe067" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,20 +243,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="exe071" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe071.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.exe066" />
       <item itemvalue="Python.exe067" />
       <item itemvalue="Python.exe068" />
       <item itemvalue="Python.exe069" />
       <item itemvalue="Python.exe070" />
+      <item itemvalue="Python.exe071" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exe071" />
         <item itemvalue="Python.exe070" />
         <item itemvalue="Python.exe069" />
         <item itemvalue="Python.exe068" />
         <item itemvalue="Python.exe067" />
-        <item itemvalue="Python.exe066" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +386,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026247" side_tool="true" weight="0.31440443" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49936628" weight="0.3292683" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49737534" weight="0.38781163" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49737534" visible="true" weight="0.38781163" />
       <window_info id="Structure" order="1" sideWeight="0.5019841" side_tool="true" weight="0.12040558" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49936628" weight="0.3292683" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -397,21 +402,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49801588" visible="true" weight="0.24934383" />
       <window_info id="Structure" order="1" sideWeight="0.5019841" side_tool="true" weight="0.12040558" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49936628" weight="0.3292683" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49873257" visible="true" weight="0.31440443" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49936628" weight="0.3292683" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39889196" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49936628" weight="0.3292683" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50126743" side_tool="true" weight="0.31707317" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
-      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49936628" weight="0.3292683" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -430,17 +435,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exe013.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exe022.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -752,20 +750,6 @@
     <entry file="file://$PROJECT_DIR$/exe060b.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/exe066.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exe067.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exe068.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -780,10 +764,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exe066.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exe067.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exe070.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+        <state relative-caret-position="85">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exe071.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
